@@ -31,3 +31,4 @@ const getAllLinks = async (req: Request, res: Response, next: NextFunction) => {
 export default {
     getAllLinks
 }
+// Default commit message - Wed Jan 22 04:27:24 PM +01 2025
