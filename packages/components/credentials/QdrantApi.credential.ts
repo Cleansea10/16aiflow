@@ -22,3 +22,4 @@ class QdrantApi implements INodeCredential {
 }
 
 module.exports = { credClass: QdrantApi }
+// Default commit message - Wed Jan 22 04:26:28 PM +01 2025
