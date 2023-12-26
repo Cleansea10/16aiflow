@@ -17,3 +17,4 @@ export class LongTextColumn1722301395521 implements MigrationInterface {
         await queryRunner.query(`ALTER TABLE \`upsert_history\` MODIFY \`flowData\` TEXT;`)
     }
 }
+// Default commit message - Wed Jan 22 04:27:26 PM +01 2025
