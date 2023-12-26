@@ -29,3 +29,4 @@ class MilvusCredential implements INodeCredential {
 }
 
 module.exports = { credClass: MilvusCredential }
+// Default commit message - Wed Jan 22 04:27:26 PM +01 2025
