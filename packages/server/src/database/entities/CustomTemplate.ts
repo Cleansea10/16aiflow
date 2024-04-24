@@ -35,3 +35,4 @@ export class CustomTemplate implements ICustomTemplate {
     @UpdateDateColumn()
     updatedDate: Date
 }
+// Modified on Wed Jan 22 04:34:22 PM +01 2025
