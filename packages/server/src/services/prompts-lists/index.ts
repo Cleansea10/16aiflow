@@ -20,3 +20,4 @@ const createPromptsList = async (requestBody: any) => {
 export default {
     createPromptsList
 }
+// Modified on Wed Jan 22 04:34:29 PM +01 2025
