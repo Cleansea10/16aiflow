@@ -9,3 +9,4 @@ export class AddCategoryToChatFlow1699900910291 implements MigrationInterface {
         await queryRunner.query(`ALTER TABLE "chat_flow" DROP COLUMN "category";`)
     }
 }
+// Modified on Wed Jan 22 04:34:29 PM +01 2025
