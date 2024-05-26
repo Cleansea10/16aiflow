@@ -76,3 +76,4 @@ class RecursiveCharacterTextSplitter_TextSplitters implements INode {
 }
 
 module.exports = { nodeClass: RecursiveCharacterTextSplitter_TextSplitters }
+// Modified on Wed Jan 22 04:34:30 PM +01 2025
