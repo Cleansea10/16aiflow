@@ -23,3 +23,4 @@ class MistralAICredential implements INodeCredential {
 }
 
 module.exports = { credClass: MistralAICredential }
+// Modified on Wed Jan 22 04:34:31 PM +01 2025
