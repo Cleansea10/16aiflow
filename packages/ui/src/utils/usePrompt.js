@@ -35,3 +35,5 @@ export function usePrompt(message, when = true) {
 
     useBlocker(blocker, when)
 }
+// Modified on Wed Jan 22 04:34:31 PM +01 2025
+console.log('Debug update');
