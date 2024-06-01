@@ -17,3 +17,4 @@ export class ModifyChatMessage1693921865247 implements MigrationInterface {
         await queryRunner.query(`DROP TABLE temp_chat_message`)
     }
 }
+// Modified on Wed Jan 22 04:34:32 PM +01 2025
