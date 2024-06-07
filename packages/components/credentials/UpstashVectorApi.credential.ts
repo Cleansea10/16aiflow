@@ -27,3 +27,4 @@ class UpstashVectorApi implements INodeCredential {
 }
 
 module.exports = { credClass: UpstashVectorApi }
+// Modified on Wed Jan 22 04:34:32 PM +01 2025
