@@ -835,3 +835,4 @@ LoaderRow.propTypes = {
     onViewUpsertAPI: PropTypes.func
 }
 export default DocumentStoreDetails
+// Modified on Wed Jan 22 04:34:34 PM +01 2025
