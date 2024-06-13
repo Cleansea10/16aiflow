@@ -30,3 +30,4 @@ class VoyageAIApi implements INodeCredential {
 }
 
 module.exports = { credClass: VoyageAIApi }
+// Modified on Wed Jan 22 04:34:34 PM +01 2025
