@@ -170,3 +170,4 @@ const _createVectorStoreObject = async (componentNodes: ICommonObject, data: ICo
 }
 
 module.exports = { nodeClass: DocStore_VectorStores }
+// Modified on Wed Jan 22 04:34:34 PM +01 2025
