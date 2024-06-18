@@ -26,3 +26,4 @@ router.post('/:id', getMulterStorage().array('files'), openaiAssistantsVectorSto
 router.patch(['/', '/:id'], openaiAssistantsVectorStoreController.deleteFilesFromAssistantVectorStore)
 
 export default router
+// Modified on Wed Jan 22 04:34:35 PM +01 2025
