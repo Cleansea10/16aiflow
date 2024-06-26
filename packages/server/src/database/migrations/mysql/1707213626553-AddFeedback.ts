@@ -20,3 +20,4 @@ export class AddFeedback1707213626553 implements MigrationInterface {
         await queryRunner.query(`DROP TABLE chat_message_feedback`)
     }
 }
+// Modified on Wed Jan 22 04:34:37 PM +01 2025
