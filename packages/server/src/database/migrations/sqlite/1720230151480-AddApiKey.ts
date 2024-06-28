@@ -15,3 +15,4 @@ export class AddApiKey1720230151480 implements MigrationInterface {
         await queryRunner.query(`DROP TABLE IF EXISTS "apikey";`)
     }
 }
+// Modified on Wed Jan 22 04:34:38 PM +01 2025
