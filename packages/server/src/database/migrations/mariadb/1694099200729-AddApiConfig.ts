@@ -10,3 +10,4 @@ export class AddApiConfig1694099200729 implements MigrationInterface {
         await queryRunner.query(`ALTER TABLE \`chat_flow\` DROP COLUMN \`apiConfig\`;`)
     }
 }
+// Modified on Wed Jan 22 04:34:38 PM +01 2025
