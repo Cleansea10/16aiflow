@@ -13,3 +13,4 @@ export class AddTypeToAssistant1733011290987 implements MigrationInterface {
         await queryRunner.query(`ALTER TABLE \`assistant\` DROP COLUMN \`type\`;`)
     }
 }
+// Modified on Wed Jan 22 04:34:39 PM +01 2025
