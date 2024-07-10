@@ -167,3 +167,4 @@ class ChatCerebras_ChatModels implements INode {
 }
 
 module.exports = { nodeClass: ChatCerebras_ChatModels }
+// Modified on Wed Jan 22 04:34:40 PM +01 2025
