@@ -54,3 +54,4 @@ export class CohereRerank extends BaseDocumentCompressor {
         }
     }
 }
+// Modified on Wed Jan 22 04:34:41 PM +01 2025
