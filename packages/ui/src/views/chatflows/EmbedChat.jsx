@@ -385,3 +385,4 @@ EmbedChat.propTypes = {
 }
 
 export default EmbedChat
+// Modified on Wed Jan 22 04:34:42 PM +01 2025
