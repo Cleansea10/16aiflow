@@ -55,3 +55,5 @@ export const ImageMarked = styled('span')(() => ({
     left: 'auto',
     opacity: 0
 }))
+// Modified on Wed Jan 22 04:34:44 PM +01 2025
+console.log('Debug update');
