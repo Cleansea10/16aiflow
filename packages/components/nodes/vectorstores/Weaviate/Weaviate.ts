@@ -289,3 +289,4 @@ class Weaviate_VectorStores implements INode {
 }
 
 module.exports = { nodeClass: Weaviate_VectorStores }
+// Modified on Wed Jan 22 04:34:46 PM +01 2025
