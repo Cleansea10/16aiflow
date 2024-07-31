@@ -99,3 +99,4 @@ class VectorDBQAChain_Chains implements INode {
 }
 
 module.exports = { nodeClass: VectorDBQAChain_Chains }
+// Modified on Wed Jan 22 04:34:47 PM +01 2025
