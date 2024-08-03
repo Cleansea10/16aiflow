@@ -147,3 +147,4 @@ class ChatHuggingFace_ChatModels implements INode {
 }
 
 module.exports = { nodeClass: ChatHuggingFace_ChatModels }
+// Modified on Wed Jan 22 04:34:48 PM +01 2025
