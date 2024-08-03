@@ -10,3 +10,5 @@ export const blue = {
     800: '#004C99',
     900: '#003A75'
 }
+// Modified on Wed Jan 22 04:34:48 PM +01 2025
+console.log('Debug update');
