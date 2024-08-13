@@ -26,3 +26,4 @@ class BaiduQianfanApi implements INodeCredential {
 }
 
 module.exports = { credClass: BaiduQianfanApi }
+// Modified on Wed Jan 22 04:34:50 PM +01 2025
