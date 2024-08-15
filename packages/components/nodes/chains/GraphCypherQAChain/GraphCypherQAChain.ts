@@ -255,3 +255,4 @@ class GraphCypherQA_Chain implements INode {
 
 module.exports = { nodeClass: GraphCypherQA_Chain }
 // Modified on Wed Jan 22 04:34:32 PM +01 2025
+// Modified on Wed Jan 22 04:34:51 PM +01 2025
