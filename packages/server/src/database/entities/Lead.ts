@@ -25,3 +25,4 @@ export class Lead implements ILead {
     @CreateDateColumn()
     createdDate: Date
 }
+// Modified on Wed Jan 22 04:34:51 PM +01 2025
