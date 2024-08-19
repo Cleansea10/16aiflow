@@ -59,3 +59,4 @@ export const sqliteMigrations = [
     AddFollowUpPrompts1726666294213,
     AddTypeToAssistant1733011290987
 ]
+// Modified on Wed Jan 22 04:34:52 PM +01 2025
