@@ -23,3 +23,4 @@ export class AddCustomTemplate1725629836652 implements MigrationInterface {
         await queryRunner.query(`DROP TABLE custom_template`)
     }
 }
+// Modified on Wed Jan 22 04:34:53 PM +01 2025

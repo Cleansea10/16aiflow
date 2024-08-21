@@ -36,3 +36,4 @@ export class ChatAnthropic extends LangchainChatAnthropic implements IVisionChat
     }
 }
 // Modified on Wed Jan 22 04:34:52 PM +01 2025
+// Modified on Wed Jan 22 04:34:53 PM +01 2025
