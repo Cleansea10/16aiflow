@@ -29,3 +29,4 @@ class ElectricsearchAPI implements INodeCredential {
 }
 
 module.exports = { credClass: ElectricsearchAPI }
+// Modified on Wed Jan 22 04:34:55 PM +01 2025
