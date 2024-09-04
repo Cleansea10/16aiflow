@@ -51,3 +51,4 @@ export const getImageUploads = (uploads: IFileUpload[]) => {
 }
 
 export const llmSupportsVision = (value: any): value is IVisionChatModal => !!value?.multiModalOption
+// Modified on Wed Jan 22 04:34:55 PM +01 2025
