@@ -23,3 +23,4 @@ class MongoDBUrlApi implements INodeCredential {
 }
 
 module.exports = { credClass: MongoDBUrlApi }
+// Modified on Wed Jan 22 04:34:58 PM +01 2025
