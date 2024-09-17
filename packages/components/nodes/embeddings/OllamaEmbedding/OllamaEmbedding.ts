@@ -96,3 +96,4 @@ class OllamaEmbedding_Embeddings implements INode {
 }
 
 module.exports = { nodeClass: OllamaEmbedding_Embeddings }
+// Modified on Wed Jan 22 04:34:59 PM +01 2025
