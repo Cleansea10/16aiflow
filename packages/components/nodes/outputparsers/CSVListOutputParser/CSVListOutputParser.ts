@@ -49,3 +49,4 @@ class CSVListOutputParser implements INode {
 }
 
 module.exports = { nodeClass: CSVListOutputParser }
+// Modified on Wed Jan 22 04:35:01 PM +01 2025
