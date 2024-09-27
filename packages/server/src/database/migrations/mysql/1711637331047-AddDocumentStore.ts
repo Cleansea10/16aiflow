@@ -35,3 +35,4 @@ export class AddDocumentStore1711637331047 implements MigrationInterface {
         await queryRunner.query(`DROP TABLE document_store_file_chunk`)
     }
 }
+// Modified on Wed Jan 22 04:35:01 PM +01 2025
