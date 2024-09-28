@@ -12,3 +12,4 @@ export class AddSpeechToText1706364937060 implements MigrationInterface {
 }
 // Modified on Wed Jan 22 04:34:43 PM +01 2025
 // Modified on Wed Jan 22 04:34:51 PM +01 2025
+// Modified on Wed Jan 22 04:35:01 PM +01 2025

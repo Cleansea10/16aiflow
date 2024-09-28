@@ -907,3 +907,4 @@ const formatToOpenAIAssistantTool = (tool: any): OpenAI.Beta.FunctionTool => {
 }
 
 module.exports = { nodeClass: OpenAIAssistant_Agents }
+// Modified on Wed Jan 22 04:35:01 PM +01 2025
