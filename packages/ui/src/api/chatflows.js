@@ -32,3 +32,5 @@ export default {
     getIsChatflowStreaming,
     getAllowChatflowUploads
 }
+// Modified on Wed Jan 22 04:35:03 PM +01 2025
+console.log('Debug update');
