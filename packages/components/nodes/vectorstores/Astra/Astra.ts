@@ -186,3 +186,4 @@ class Astra_VectorStores implements INode {
 }
 
 module.exports = { nodeClass: Astra_VectorStores }
+// Modified on Wed Jan 22 04:35:04 PM +01 2025
