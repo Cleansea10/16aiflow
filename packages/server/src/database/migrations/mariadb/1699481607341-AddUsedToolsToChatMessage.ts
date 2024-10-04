@@ -10,3 +10,4 @@ export class AddUsedToolsToChatMessage1699481607341 implements MigrationInterfac
         await queryRunner.query(`ALTER TABLE \`chat_message\` DROP COLUMN \`usedTools\`;`)
     }
 }
+// Modified on Wed Jan 22 04:35:04 PM +01 2025
