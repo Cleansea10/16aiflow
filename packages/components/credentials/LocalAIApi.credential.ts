@@ -21,3 +21,4 @@ class LocalAIApi implements INodeCredential {
 }
 
 module.exports = { credClass: LocalAIApi }
+// Modified on Wed Jan 22 04:35:04 PM +01 2025
