@@ -16,3 +16,4 @@ export class ModifyTool1693924207475 implements MigrationInterface {
         await queryRunner.query(`DROP TABLE temp_tool`)
     }
 }
+// Modified on Wed Jan 22 04:35:05 PM +01 2025
