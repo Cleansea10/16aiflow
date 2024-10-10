@@ -511,3 +511,4 @@ class Qdrant_VectorStores implements INode {
 }
 
 module.exports = { nodeClass: Qdrant_VectorStores }
+// Modified on Wed Jan 22 04:35:05 PM +01 2025

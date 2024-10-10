@@ -118,3 +118,4 @@ class MultiRetrievalQAChain_Chains implements INode {
 }
 
 module.exports = { nodeClass: MultiRetrievalQAChain_Chains }
+// Modified on Wed Jan 22 04:35:05 PM +01 2025
