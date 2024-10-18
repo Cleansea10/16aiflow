@@ -68,3 +68,4 @@ class VoyageAIEmbedding_Embeddings implements INode {
 }
 
 module.exports = { nodeClass: VoyageAIEmbedding_Embeddings }
+// Modified on Wed Jan 22 04:35:07 PM +01 2025
