@@ -9,3 +9,4 @@ export class ModifyTool1693997339912 implements MigrationInterface {
         await queryRunner.query(`ALTER TABLE "tool" ALTER COLUMN "schema" TYPE VARCHAR, ALTER COLUMN "func" TYPE VARCHAR;`)
     }
 }
+// Modified on Wed Jan 22 04:35:08 PM +01 2025
