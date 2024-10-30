@@ -139,3 +139,4 @@ class AnthropicAgent_LlamaIndex_Agents implements INode {
 }
 
 module.exports = { nodeClass: AnthropicAgent_LlamaIndex_Agents }
+// Modified on Wed Jan 22 04:35:10 PM +01 2025
