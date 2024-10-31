@@ -18,3 +18,4 @@ export class AddApiKey1720230151480 implements MigrationInterface {
         await queryRunner.query(`DROP TABLE apikey`)
     }
 }
+// Modified on Wed Jan 22 04:35:10 PM +01 2025
