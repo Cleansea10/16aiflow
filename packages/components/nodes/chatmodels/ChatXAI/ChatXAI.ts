@@ -103,3 +103,4 @@ class ChatXAI_ChatModels implements INode {
 }
 
 module.exports = { nodeClass: ChatXAI_ChatModels }
+// Modified on Wed Jan 22 04:35:11 PM +01 2025
