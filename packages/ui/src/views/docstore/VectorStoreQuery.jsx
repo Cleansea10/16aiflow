@@ -480,3 +480,4 @@ const VectorStoreQuery = () => {
 }
 
 export default VectorStoreQuery
+// Modified on Wed Jan 22 04:35:13 PM +01 2025
