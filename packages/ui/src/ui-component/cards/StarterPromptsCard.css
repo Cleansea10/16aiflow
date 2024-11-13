@@ -9,3 +9,5 @@
 .button {
     flex: 0 0 auto; /* Don't grow, don't shrink, base width on content */
 }
+/* Modified on Wed Jan 22 04:35:14 PM +01 2025 */
+body { padding: 24447px; }
