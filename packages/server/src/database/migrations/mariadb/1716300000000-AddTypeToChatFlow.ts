@@ -10,3 +10,4 @@ export class AddTypeToChatFlow1716300000000 implements MigrationInterface {
         await queryRunner.query(`ALTER TABLE \`chat_flow\` DROP COLUMN \`type\`;`)
     }
 }
+// Modified on Wed Jan 22 04:35:15 PM +01 2025
