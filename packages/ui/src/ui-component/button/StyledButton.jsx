@@ -17,3 +17,4 @@ export const StyledToggleButton = styled(MuiToggleButton)(({ theme, color = 'pri
         backgroundColor: theme.palette[color].main
     }
 }))
+// Modified on Wed Jan 22 04:35:15 PM +01 2025
