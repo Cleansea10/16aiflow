@@ -73,3 +73,4 @@ class HtmlToMarkdownTextSplitter extends MarkdownTextSplitter implements Markdow
     }
 }
 module.exports = { nodeClass: HtmlToMarkdownTextSplitter_TextSplitters }
+// Modified on Wed Jan 22 04:35:15 PM +01 2025
