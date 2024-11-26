@@ -219,3 +219,4 @@ class GoogleVertexAI_ChatModels implements INode {
 }
 
 module.exports = { nodeClass: GoogleVertexAI_ChatModels }
+// Modified on Wed Jan 22 04:35:16 PM +01 2025
