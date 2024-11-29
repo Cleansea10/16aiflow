@@ -10,3 +10,4 @@ export class AddAnalytic1694432361423 implements MigrationInterface {
         await queryRunner.query(`ALTER TABLE \`chat_flow\` DROP COLUMN \`analytic\`;`)
     }
 }
+// Modified on Wed Jan 22 04:35:17 PM +01 2025
