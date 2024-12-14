@@ -269,3 +269,4 @@ class MeilisearchRetriever_node implements INode {
     }
 }
 module.exports = { nodeClass: MeilisearchRetriever_node }
+// Modified on Wed Jan 22 04:35:21 PM +01 2025
