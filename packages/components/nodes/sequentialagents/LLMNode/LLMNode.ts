@@ -724,3 +724,4 @@ const getReturnOutput = async (nodeData: INodeData, input: string, options: ICom
 }
 
 module.exports = { nodeClass: LLMNode_SeqAgents }
+// Modified on Wed Jan 22 04:35:21 PM +01 2025
