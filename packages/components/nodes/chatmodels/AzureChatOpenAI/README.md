@@ -13,4 +13,4 @@ Azure OpenAI Chat Model integration for Flowise
 
 ## License
 
-Source code in this repository is made available under the [Apache License Version 2.0](https://github.com/FlowiseAI/Flowise/blob/master/LICENSE.md).
+Source code in this repository is made available under the [Apache License Version 2.0](https://github.com/FlowiseAI/Flowise/blob/master/LICENSE.md).// Modified on Wed Jan 22 04:35:23 PM +01 2025
