@@ -10,3 +10,4 @@ export class AddSpeechToText1706364937060 implements MigrationInterface {
         await queryRunner.query(`ALTER TABLE \`chat_flow\` DROP COLUMN \`speechToText\`;`)
     }
 }
+// Modified on Wed Jan 22 04:35:25 PM +01 2025
