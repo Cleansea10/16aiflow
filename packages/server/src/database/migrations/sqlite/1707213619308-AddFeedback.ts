@@ -13,3 +13,4 @@ export class AddFeedback1707213619308 implements MigrationInterface {
         await queryRunner.query(`DROP TABLE IF EXISTS "chat_message_feedback";`)
     }
 }
+// Modified on Wed Jan 22 04:35:26 PM +01 2025
