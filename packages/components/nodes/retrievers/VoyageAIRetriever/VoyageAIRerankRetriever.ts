@@ -138,3 +138,4 @@ class VoyageAIRerankRetriever_Retrievers implements INode {
 }
 
 module.exports = { nodeClass: VoyageAIRerankRetriever_Retrievers }
+// Modified on Wed Jan 22 04:35:26 PM +01 2025
