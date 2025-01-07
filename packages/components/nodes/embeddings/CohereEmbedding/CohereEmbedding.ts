@@ -100,3 +100,4 @@ class CohereEmbedding_Embeddings implements INode {
 
 module.exports = { nodeClass: CohereEmbedding_Embeddings }
 // Modified on Wed Jan 22 04:35:11 PM +01 2025
+// Modified on Wed Jan 22 04:35:28 PM +01 2025
