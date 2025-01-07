@@ -19,3 +19,4 @@ export class AddAssistantEntity1699325775451 implements MigrationInterface {
         await queryRunner.query(`DROP TABLE assistant`)
     }
 }
+// Modified on Wed Jan 22 04:35:28 PM +01 2025
