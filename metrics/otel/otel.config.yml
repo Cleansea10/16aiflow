@@ -70,3 +70,4 @@ service:
       receivers: [otlp, filelog]
       processors: [batch]
       exporters: [datadog/exporter]
+// Modified on Wed Jan 22 04:35:29 PM +01 2025
