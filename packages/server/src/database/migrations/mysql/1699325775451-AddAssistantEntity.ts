@@ -20,3 +20,4 @@ export class AddAssistantEntity1699325775451 implements MigrationInterface {
     }
 }
 // Modified on Wed Jan 22 04:35:28 PM +01 2025
+// Modified on Wed Jan 22 04:35:30 PM +01 2025
