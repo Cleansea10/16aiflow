@@ -16,3 +16,4 @@ router.put(['/', '/:id'], credentialsController.updateCredential)
 router.delete(['/', '/:id'], credentialsController.deleteCredentials)
 
 export default router
+// Modified on Wed Jan 22 04:35:31 PM +01 2025
