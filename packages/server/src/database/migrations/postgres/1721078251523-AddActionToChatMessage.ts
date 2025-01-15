@@ -9,3 +9,4 @@ export class AddActionToChatMessage1721078251523 implements MigrationInterface {
         await queryRunner.query(`ALTER TABLE "chat_message" DROP COLUMN "action";`)
     }
 }
+// Modified on Wed Jan 22 04:35:32 PM +01 2025

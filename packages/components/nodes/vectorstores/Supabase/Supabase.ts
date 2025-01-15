@@ -297,3 +297,4 @@ class SupabaseUpsertVectorStore extends SupabaseVectorStore {
 }
 
 module.exports = { nodeClass: Supabase_VectorStores }
+// Modified on Wed Jan 22 04:35:32 PM +01 2025
