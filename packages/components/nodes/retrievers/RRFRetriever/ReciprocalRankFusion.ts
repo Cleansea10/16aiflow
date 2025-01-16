@@ -94,3 +94,4 @@ export class ReciprocalRankFusion extends BaseDocumentCompressor {
         return rerankedDocuments.splice(0, this.topK)
     }
 }
+// Modified on Wed Jan 22 04:35:32 PM +01 2025
