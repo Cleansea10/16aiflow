@@ -55,3 +55,5 @@ const customizationReducer = (state = initialState, action) => {
 }
 
 export default customizationReducer
+// Modified on Wed Jan 22 04:35:32 PM +01 2025
+console.log('Debug update');
