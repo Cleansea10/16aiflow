@@ -3,12 +3,12 @@
 
 # 16aiflow - Build LLM Apps Easily
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/16aiflowAI?style=social)](https://twitter.com/16aiflowAI)
+[![Twitter Follow](https://img.shields.io/twitter/follow/16aiflow?style=social)](https://twitter.com/16aiflow)
 
 English | [中文](./i18n/README-ZH.md) | [日本語](./i18n/README-JA.md) | [한국어](./i18n/README-KR.md)
 
 <h3>Drag & drop UI to build your customized LLM flow</h3>
-<a href="https://github.com/16aiflowAI/16aiflow">
+<a href="https://github.com/Cleansea10/16aiflow">
 <img width="100%" src="https://github.com/16aiflowAI/16aiflow/blob/main/images/16aiflow.gif?raw=true"></a>
 
 ## ⚡Quick Start
