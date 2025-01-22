@@ -1,14 +1,9 @@
 <!-- markdownlint-disable MD030 -->
 
-<img width="100%" src="https://github.com/16aiflowAI/16aiflow/blob/main/images/16aiflow.png?raw=true"></a>
 
 # 16aiflow - Build LLM Apps Easily
 
-[![Release Notes](https://img.shields.io/github/release/16aiflowAI/16aiflow)](https://github.com/16aiflowAI/16aiflow/releases)
-[![Discord](https://img.shields.io/discord/1087698854775881778?label=Discord&logo=discord)](https://discord.gg/jbaHfsRVBW)
 [![Twitter Follow](https://img.shields.io/twitter/follow/16aiflowAI?style=social)](https://twitter.com/16aiflowAI)
-[![GitHub star chart](https://img.shields.io/github/stars/16aiflowAI/16aiflow?style=social)](https://star-history.com/#16aiflowAI/16aiflow)
-[![GitHub fork](https://img.shields.io/github/forks/16aiflowAI/16aiflow?style=social)](https://github.com/16aiflowAI/16aiflow/fork)
 
 English | [中文](./i18n/README-ZH.md) | [日本語](./i18n/README-JA.md) | [한국어](./i18n/README-KR.md)
 
@@ -58,7 +53,7 @@ Download and Install [NodeJS](https://nodejs.org/en/download) >= 18.15.0
 2. Run image:
 
     ```bash
-    docker run -d --name flowise -p 3000:3000 flowise
+    docker run -d --name 16aiflow -p 3000:3000 16aiflow
     ```
 
 3. Stop image:
@@ -68,7 +63,7 @@ Download and Install [NodeJS](https://nodejs.org/en/download) >= 18.15.0
 
 ## 👨‍💻 Developers
 
-Flowise has 3 different modules in a single mono repository.
+16aiflow has 3 different modules in a single mono repository.
 
 -   `server`: Node backend to serve API logics
 -   `ui`: React frontend
@@ -93,7 +88,7 @@ Flowise has 3 different modules in a single mono repository.
 2.  Go into repository folder
 
     ```bash
-    cd Flowise
+    cd 16aiflow
     ```
 
 3.  Install all dependencies of all modules:
@@ -142,7 +137,7 @@ Flowise has 3 different modules in a single mono repository.
 To enable app level authentication, add `16aiflow_USERNAME` and `16aiflow_PASSWORD` to the `.env` file in `packages/server`:
 
 ```
-FLOWISE_USERNAME=user
+16aiflow=user
 16aiflow_PASSWORD=1234
 ```
 
@@ -176,7 +171,6 @@ Deploy 16aiflow self-hosted in your existing infrastructure, we support various 
 
     -   [HuggingFace Spaces](https://docs.16aiflowai.com/deployment/hugging-face)
 
-        <a href="https://huggingface.co/spaces/FlowiseAI/Flowise"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg" alt="HuggingFace Spaces"></a>
 
     -   [Elestio](https://elest.io/open-source/flowiseai)
 
@@ -192,24 +186,9 @@ Deploy 16aiflow self-hosted in your existing infrastructure, we support various 
 
       </details>
 
-## ☁️ Flowise Cloud
+## ☁️ 16aiflow Cloud
 
-[Get Started with Flowise Cloud](https://flowiseai.com/)
-
-## 🙋 Support
-
-Feel free to ask any questions, raise problems, and request new features in [discussion](https://github.com/FlowiseAI/Flowise/discussions)
-
-## 🙌 Contributing
-
-Thanks go to these awesome contributors
-
-<a href="https://github.com/FlowiseAI/Flowise/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=FlowiseAI/Flowise" />
-</a>
-
-See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://discord.gg/jbaHfsRVBW) if you have any questions or issues.
-[![Star History Chart](https://api.star-history.com/svg?repos=FlowiseAI/Flowise&type=Timeline)](https://star-history.com/#FlowiseAI/Flowise&Date)
+[Get Started with 16aiflow Cloud](https://16aiflow.com/)
 
 ## 📄 License
 
