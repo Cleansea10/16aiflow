@@ -1,6 +1,5 @@
 <!-- markdownlint-disable MD030 -->
 
-<img width="100%" src="https://github.com/16aiflowAI/16aiflow/blob/main/images/16aiflow.png?raw=true"></a>
 
 # 16aiflow - Build LLM Apps Easily
 
