@@ -4,11 +4,7 @@
 
 # 16aiflow - Build LLM Apps Easily
 
-[![Release Notes](https://img.shields.io/github/release/16aiflowAI/16aiflow)](https://github.com/16aiflowAI/16aiflow/releases)
-[![Discord](https://img.shields.io/discord/1087698854775881778?label=Discord&logo=discord)](https://discord.gg/jbaHfsRVBW)
 [![Twitter Follow](https://img.shields.io/twitter/follow/16aiflowAI?style=social)](https://twitter.com/16aiflowAI)
-[![GitHub star chart](https://img.shields.io/github/stars/16aiflowAI/16aiflow?style=social)](https://star-history.com/#16aiflowAI/16aiflow)
-[![GitHub fork](https://img.shields.io/github/forks/16aiflowAI/16aiflow?style=social)](https://github.com/16aiflowAI/16aiflow/fork)
 
 English | [中文](./i18n/README-ZH.md) | [日本語](./i18n/README-JA.md) | [한국어](./i18n/README-KR.md)
 
